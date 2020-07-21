@@ -20,7 +20,7 @@ def join_nested_strings(src)
        end
       string += 1 
     end
-    str.join
+   str = str.join
     
  
   binding.pry
